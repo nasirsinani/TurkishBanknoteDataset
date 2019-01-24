@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>IMG_3816 resized.jpg</filename>
+	<path>D:\TurkishBanknoteDataset-master\train\10\IMG_3816 resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10TL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>19</ymin>
+			<xmax>154</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

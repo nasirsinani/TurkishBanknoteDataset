@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20</folder>
+	<filename>IMG_3145resized.jpg</filename>
+	<path>D:\TurkishBanknoteDataset-master\train\20\IMG_3145resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20TL</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>145</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

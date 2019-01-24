@@ -1,0 +1,26 @@
+<annotation>
+	<folder>50</folder>
+	<filename>IMG_3274resized.jpg</filename>
+	<path>D:\TurkishBanknoteDataset-master\test\50\IMG_3274resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50TL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>3</ymin>
+			<xmax>181</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
